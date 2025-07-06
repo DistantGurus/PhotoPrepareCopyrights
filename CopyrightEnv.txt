@@ -1,0 +1,13 @@
+# This file will be automatically generated the first time you run the script, you do not need to manually create this file.
+
+# Path to the Excel log file where metadata will be recorded
+ExcelLogPath=C:\Users\YourName\Documents\ImageLogs\Copyrighted.xlsx
+
+# Folder where the script should save ZIP files
+ZipSavePath=C:\Users\YourName\Documents\ImageZips
+
+# Name of the TXT file written to the image source folder (per run)
+TextLogFileName=Copyright-Data.txt
+
+# Temporary JPEG conversion folder (auto-deleted each run) THIS FOLDER WILL BE DELETED
+TempJPEGPath=C:\Users\YourName\Documents\ImageLogs\TempDir-AutoDelete
