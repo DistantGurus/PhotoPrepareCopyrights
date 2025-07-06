@@ -1,0 +1,25 @@
+# Ignore Excel and log output
+*.xlsx
+*.log
+*.txt
+
+# Ignore temp conversion folder
+*/TempDir-AutoDelete/
+TempDir-AutoDelete/
+
+# Ignore PowerShell-generated files
+*.ps1~ 
+*.ps1.swp
+*.ps1.save
+
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Windows file explorer and temp files
+ehthumbs.db
+~$*
+
+# VSCode settings if applicable
+.vscode/
