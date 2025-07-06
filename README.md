@@ -51,3 +51,18 @@ ExcelLogPath=C:\Users\YourName\Documents\ImageLogs\Copyrighted.xlsx
 ZipSavePath=C:\Users\YourName\Documents\ImageZips
 TextLogFileName=Copyright-Data.txt
 TempJPEGPath=C:\Users\YourName\Documents\ImageLogs\TempDir-AutoDelete
+
+
+
+
+---
+
+## 📄 `CopyrightEnv.txt`
+
+This file is created automatically the first time you run the script, and stores all key paths for reuse:
+
+```ini
+ExcelLogPath=C:\Users\YourName\Documents\ImageLogs\Copyrighted.xlsx
+ZipSavePath=C:\Users\YourName\Documents\ImageZips
+TextLogFileName=Copyright-Data.txt
+TempJPEGPath=C:\Users\YourName\Documents\ImageLogs\TempDir-AutoDelete
